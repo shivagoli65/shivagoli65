@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivagoli65
+- 👋 Hi, I’m shiva --> shivagoli65@yahoo.com
 - 👀 I’m interested in web and graphic designing.
 - 🌱 I’m currently learning about UI/UX 
 - 💞️ I’m looking to collaborate on web development
