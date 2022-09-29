@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shiva 
 - 👀 I’m interested in web and graphic designing.
-- 🌱 I’m currently learning about UI/UX 
+- 🌱 I’m currently learning about UI/UX design
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me : shivagoli65@yahoo.com
 
